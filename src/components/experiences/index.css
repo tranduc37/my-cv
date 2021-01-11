@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+.experiences {
+  background: #270e4e;
+}
+.experiences_container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.experiences_container section {
+  display: flex;
+}
+.experiences_image {
+  width: 30%;
+  padding-top: 5rem;
+}
+.experiences_image img {
+  max-width: 100%;
+}
+.experiences_content {
+  color: white;
+  width: 70%;
+  padding-left: 5rem;
+  letter-spacing: 2px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  padding-bottom: 5rem;
+}
+.experiences_content strong {
+  color: #ca40ba;
+}
+.experiences_content--title {
+  text-align: center;
+  padding: 2rem 0;
+  line-height: 2;
+}
+.experiences_item {
+  padding: 1rem 0;
+}

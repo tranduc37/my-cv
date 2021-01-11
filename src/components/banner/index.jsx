@@ -1,7 +1,6 @@
 import React from 'react';
 import './index.css';
 import Typist from 'react-typist'
-import sample from '../../assets/video/theword.mp4';
 
 export default () => {
   return (

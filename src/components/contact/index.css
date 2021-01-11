@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+.contact {
+  background: #eae0f9;
+}
+.contact_content {
+  text-align: center;
+  max-width: 960px;
+  margin: 0 auto;
+  letter-spacing: 1px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  padding: 0 2rem;
+}
+.contact_main {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+}
+.contact_icon {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0px 12px 16px #363636;
+  padding: 0.5rem;
+}
+.contact_icon span {
+  padding-left: 6px;
+}

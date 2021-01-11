@@ -4,6 +4,8 @@ import Navbar from './components/navbar';
 import Banner from './components/banner';
 import About from './components/about';
 import Skills from './components/skills';
+import Experiences from './components/experiences';
+import Contact from './components/contact';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
         <Banner />
         <About />
         <Skills />
+        <Experiences />
+        <Contact />
       </Router>
     </>
   );

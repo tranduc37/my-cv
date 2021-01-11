@@ -28,5 +28,11 @@ export const MenuItems = [
     url: '#experiences',
     cName: 'nav-links five',
     id: '#experiences'
+  },
+  {
+    title: 'Contact',
+    url: '#contact',
+    cName: 'nav-links six',
+    id: '#contact'
   }
 ] 
